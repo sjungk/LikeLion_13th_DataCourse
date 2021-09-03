@@ -11,3 +11,9 @@
   * 02 body [source code](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/web_html/html_body.html)
   * 03 a, image tag [source code](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/web_html/03_html_link_image.html)
   * 04 div, span, ul, ol , li tag [source code](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/web_html/04_html_div_span.html)
+
+### HTML 직접 만들어보기 실습
+  * 01 main [source code]
+  * 02 myself [source code]
+  * 03 myfavorite [source code]
+  * 04 mytodolist [source code]
