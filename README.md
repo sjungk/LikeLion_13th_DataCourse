@@ -9,4 +9,4 @@
   * HTML 기본 이해 실습
   * 01 tltle tag [source code] (https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/web_html/html_title.html)
   * 02 body [source code] (https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/web_html/html_body.html)
-  * 03 a, image tag [source code] (
+  * 03 a, image tag [source code] (https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/web_html/03_html_link_image.html)
