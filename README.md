@@ -4,3 +4,4 @@
 
 ### 웹의 이해 - HTML
   * HTML 기본(1) [Link](https://git-scm.com/)
+  * 설명 메모를 추가합니다.
