@@ -14,6 +14,6 @@
 
 ### HTML 직접 만들어보기 실습
   * 01 main [source code](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/mission_introuce/01_main.html)
-  * 02 myself [source code]
-  * 03 myfavorite [source code]
-  * 04 mytodolist [source code]
+  * 02 myself [source code](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/mission_introuce/02_myself.html)
+  * 03 myfavorite [source code](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/mission_introuce/03_myfavorite.html)
+  * 04 mytodolist [source code](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/mission_introuce/04_mytodolist.html)
