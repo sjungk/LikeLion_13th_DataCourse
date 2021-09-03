@@ -4,7 +4,7 @@
 
 ### 웹의 이해 - HTML
   * HTML 기본(1) [Link](https://git-scm.com/)
-  * 설명 메모를 추가합니다.
+  (설명 메모를 추가합니다.)
 
 ### HTML 기본 이해 실습
   * 01 tltle tag [source code](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/web_html/html_title.html)
