@@ -1,0 +1,17 @@
+#h1	{
+			color : blue;
+			font-size : 15px;	
+			text-align : center;
+}
+		
+#h2 {
+			border : green;
+			color : red;
+			text-align : center;
+}
+		
+#h3 {
+			color : red;
+			text-align : center;
+			border : orange;
+}
