@@ -18,5 +18,6 @@
   * 03 myfavorite [source code](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/mission_introuce/03_myfavorite.html)
   * 04 mytodolist [source code](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/mission_introuce/04_mytodolist.html)
 
-### 나의 이미지 갤러리 만들기(20210906.Mon)
-  * 01 image gallery [source code](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/02%20css_gallery/14_img_gallery.html)
+  * css 기본 이해
+     * Toy Project - 나의 이미지 갤러리 만들기(20210906.Mon) [이동](https://sjungk.github.io/LikeLion_13th_DataCourse/02_css_gallery/14_14_img_gallery.html) [code]    
+       (https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/02%20css_gallery/14_img_gallery.html)
