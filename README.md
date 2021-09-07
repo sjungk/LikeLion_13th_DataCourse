@@ -13,7 +13,7 @@
   * 04 div, span, ul, ol , li tag [source code](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/web_html/04_html_div_span.html)
 
 ### HTML 직접 만들어보기 실습(20210903.Fri)
-  * 00 main 사이트로 이동! [site](https://sjungk.github.io/LikeLion_13th_DataCourse/03_mission.html)
+  * 00 main 사이트로 이동! [site](https://sjungk.github.io/LikeLion_13th_DataCourse/03_mission/01_main.html)
   * 01 main [source code](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/mission_introuce/01_main.html)
   * 02 myself [source code](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/mission_introuce/02_myself.html)
   * 03 myfavorite [source code](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/mission_introuce/03_myfavorite.html)
