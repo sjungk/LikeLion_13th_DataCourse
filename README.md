@@ -14,10 +14,10 @@
 
 ### HTML 직접 만들어보기 실습(20210903.Fri)
   * 00 main 사이트로 이동! [site](https://sjungk.github.io/LikeLion_13th_DataCourse/03_mission/01_main.html)
-  * 01 main [source code](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/mission_introuce/01_main.html)
-  * 02 myself [source code](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/mission_introuce/02_myself.html)
-  * 03 myfavorite [source code](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/mission_introuce/03_myfavorite.html)
-  * 04 mytodolist [source code](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/mission_introuce/04_mytodolist.html)
+  * 01 main [source code](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/03_mission/01_main.html)
+  * 02 myself [source code](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/03_mission/02_myself.html)
+  * 03 myfavorite [source code](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/03_mission/03_myfavorite.html)
+  * 04 mytodolist [source code](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/03_mission/04_mytodolist.html)
 
   * css 기본 이해
      * Toy Project - 나의 이미지 갤러리 만들기(20210906.Mon) [이동](https://sjungk.github.io/LikeLion_13th_DataCourse/02%20css_gallery/14_img_gallery.html) [code](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/02%20css_gallery/14_img_gallery.html)
