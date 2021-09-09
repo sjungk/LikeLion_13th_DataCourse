@@ -21,3 +21,6 @@
 
   * css 기본 이해
      * Toy Project - 나의 이미지 갤러리 만들기(20210906.Mon) [이동](https://sjungk.github.io/LikeLion_13th_DataCourse/02%20css_gallery/14_img_gallery.html) [code](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/02%20css_gallery/14_img_gallery.html)
+
+### 네이버 영화 댓글 가지고 오기 실습(20210909.Thu)
+  * 00 main 사이트로 이동! [site](https://sjungk.github.io/LikeLion_13th_DataCourse/03_mission/01_main.html)
