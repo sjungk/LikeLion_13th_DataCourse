@@ -30,7 +30,7 @@
   * 05_코스닥 지수 및 여러가지 정보들을 가져와 파일로 만들기 [source code](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/05_kosdaq/08_re_kosdaq.py) [csv](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/05_kosdaq/%EC%BD%94%EC%8A%A4%EB%8B%A5%EC%A0%95%EB%B3%B4.csv) [excel](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/05_kosdaq/%EC%BD%94%EC%8A%A4%EB%8B%A5%EC%A0%95%EB%B3%B4.xlsx)
   
   * 금융정보 가져오기
-    * Toy Project_kosdaq [source code](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/05_kosdaq/04_bs_basic.py)
+    * Toy Project_kosdaq [source code](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/05_kosdaq/08_re_kosdaq.py)
 
 ### 네이버 영화 댓글 가지고 오기 실습(20210909.Thu)
   * 01_ 영화 제목, 평점, 관객 수 가져오기 [source code](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/04_movie_review/07_movie_info_get.py)
