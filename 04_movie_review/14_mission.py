@@ -7,7 +7,7 @@ from matplotlib import rc
 basic_url = "https://movie.naver.com/movie/point/af/list.naver?st=mcode&sword=187348&target=after&page="
 
 comment_10 = []
-for i in range(1,11,1):
+for i in range(1,51,1):
     real_url = basic_url + str(i)
     page = urlopen(real_url)
     soup = BeautifulSoup(page, 'html.parser')
