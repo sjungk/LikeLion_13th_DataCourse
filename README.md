@@ -23,4 +23,4 @@
      * Toy Project - 나의 이미지 갤러리 만들기(20210906.Mon) [이동](https://sjungk.github.io/LikeLion_13th_DataCourse/02%20css_gallery/14_img_gallery.html) [code](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/02%20css_gallery/14_img_gallery.html)
 
 ### 네이버 영화 댓글 가지고 오기 실습(20210909.Thu)
-  * 00 실습 코드 [site](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/04_movie_review/14_mission.py)
+  * 00 실습 코드 [source code](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/04_movie_review/14_mission.py)
