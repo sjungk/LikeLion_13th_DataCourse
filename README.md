@@ -46,7 +46,7 @@
   
   ★프로젝트 선정 이유: 평소 자동차를 좋아하기 때문에 하게 되면 재미있게 할 수 있을 거 같아서 선정했다.
   
-  * 01_국내 자동차 브랜드 목록화 
+  * 01_자동차 브랜드 목록화 
      * 01-1_네이버 자동차 메인 홈페이지 (18개사) [source code](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/naver_car/01_naver_car.ipynb) [CSV](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/naver_car/%EB%84%A4%EC%9D%B4%EB%B2%84_%EC%9E%90%EB%8F%99%EC%B0%A8_%ED%99%88(%EA%B5%AD%EB%82%B4).csv) [excel](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/naver_car/%EB%84%A4%EC%9D%B4%EB%B2%84_%EC%9E%90%EB%8F%99%EC%B0%A8_%ED%99%88(%EA%B5%AD%EB%82%B4).xlsx)
      * 01-2_네이버 자동차 전체 제조사 목록 (42개사) [source code](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/naver_car/01_naver_car.ipynb) [CSV](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/naver_car/%EB%84%A4%EC%9D%B4%EB%B2%84_%EC%A0%84%EC%B2%B4_%EC%A0%9C%EC%A1%B0%EC%82%AC(%EA%B5%AD%EB%82%B4).csv) [excel](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/naver_car/%EB%84%A4%EC%9D%B4%EB%B2%84_%EC%A0%84%EC%B2%B4_%EC%A0%9C%EC%A1%B0%EC%82%AC(%EA%B5%AD%EB%82%B4).xlsx).xlsx)
   * 02_현재 시판 모델 목록(국내) [source code](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/naver_car/02_naver_car.ipynb) [CSV](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/naver_car/%EB%84%A4%EC%9D%B4%EB%B2%84_%ED%98%84%EC%9E%AC_%EC%8B%9C%ED%8C%90%EC%B0%A8(%EA%B5%AD%EB%82%B4).csv) [EXCEL](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/naver_car/%EB%84%A4%EC%9D%B4%EB%B2%84_%ED%98%84%EC%9E%AC_%EC%8B%9C%ED%8C%90%EC%B0%A8(%EA%B5%AD%EB%82%B4).xlsx)
