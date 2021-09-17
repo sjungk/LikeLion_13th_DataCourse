@@ -40,7 +40,7 @@
   * 샹치와 텐 링즈의 전설_ 댓글 50페이지 가져오기
     * Toy Project_kosdaq [source code](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/04_movie_review/14_mission.py)  [CSV](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/04_movie_review/%EC%83%B9%EC%B9%98_%EB%8C%93%EA%B8%80.csv)  [EXCEL](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/04_movie_review/%EC%83%B9%EC%B9%98_%EB%8C%93%EA%B8%80.xlsx)
   
-### [파일럿 프로젝트] 네이버 자동차 데이터 수집 (20210914_Tue)
+### [파일럿 프로젝트] 네이버 자동차 데이터 수집 (20210914.Tue)
   ★프로젝트 개요: 네이버 자동차 홈페이지에 들어가서 자동차 제조사 목록을 알아보고, 현재 시판 모델과 단종 모델을 국내와 해외로 나누어 알아본다.
                   또, 셀레니움을 이용하여 네이버 홈페이지 내의 제네시스 홈페이지로 들어가 전 차종의 세부 정보를 알아본다.               
   
