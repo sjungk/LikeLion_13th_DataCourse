@@ -40,7 +40,13 @@
   * 샹치와 텐 링즈의 전설_ 댓글 50페이지 가져오기
     * Toy Project_kosdaq [source code](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/04_movie_review/14_mission.py)  [CSV](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/04_movie_review/%EC%83%B9%EC%B9%98_%EB%8C%93%EA%B8%80.csv)  [EXCEL](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/04_movie_review/%EC%83%B9%EC%B9%98_%EB%8C%93%EA%B8%80.xlsx)
   
-### [자율 프로젝트] 네이버 자동차 데이터 수집
+### [파일럿 프로젝트] 네이버 자동차 데이터 수집 (20210914_Tue)
+  ★프로젝트 개요: 네이버 자동차 홈페이지에 들어가서 자동차 제조사 목록을 알아보고, 현재 시판 모델과 단종 모델을 국내와 해외로 나누어 알아본다.
+                  또, 셀레니움을 이용하여 네이버 홈페이지 내의 제네시스 홈페이지로 들어가 전 차종의 세부 정보를 알아본다.
+                  
+  ★프로젝트 선정 이유: 평소 자동차를 좋아하기 때문에 하게 되면 재미있게 할 수 있을 거 같아서 선정했다.
+  -----
+  
   * 01_국내 자동차 브랜드 목록화 
      * 01-1_네이버 자동차 메인 홈페이지 (18개사) [source code](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/naver_car/01_naver_car.ipynb) [CSV](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/naver_car/%EB%84%A4%EC%9D%B4%EB%B2%84_%EC%9E%90%EB%8F%99%EC%B0%A8_%ED%99%88(%EA%B5%AD%EB%82%B4).csv) [excel](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/naver_car/%EB%84%A4%EC%9D%B4%EB%B2%84_%EC%9E%90%EB%8F%99%EC%B0%A8_%ED%99%88(%EA%B5%AD%EB%82%B4).xlsx)
      * 01-2_네이버 자동차 전체 제조사 목록 (42개사) [source code](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/naver_car/01_naver_car.ipynb) [CSV](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/naver_car/%EB%84%A4%EC%9D%B4%EB%B2%84_%EC%A0%84%EC%B2%B4_%EC%A0%9C%EC%A1%B0%EC%82%AC(%EA%B5%AD%EB%82%B4).csv) [excel](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/naver_car/%EB%84%A4%EC%9D%B4%EB%B2%84_%EC%A0%84%EC%B2%B4_%EC%A0%9C%EC%A1%B0%EC%82%AC(%EA%B5%AD%EB%82%B4).xlsx).xlsx)
