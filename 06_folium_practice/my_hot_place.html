@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script>L_PREFER_CANVAS=false; L_NO_TOUCH=false; L_DISABLE_3D=false;</script>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.4.0/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.4.0/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://rawcdn.githack.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css"/>
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    
+    <meta name="viewport" content="width=device-width,
+        initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <style>#map_89b40f25d4194a68bbfc062f20e3068e {
+        position: relative;
+        width: 100.0%;
+        height: 100.0%;
+        left: 0.0%;
+        top: 0.0%;
+        }
+    </style>
+</head>
+<body>    
+    
+    <div class="folium-map" id="map_89b40f25d4194a68bbfc062f20e3068e" ></div>
+</body>
+<script>    
+    
+    
+        var bounds = null;
+    
+
+    var map_89b40f25d4194a68bbfc062f20e3068e = L.map(
+        'map_89b40f25d4194a68bbfc062f20e3068e', {
+        center: [37.732353, 126.897468],
+        zoom: 10,
+        maxBounds: bounds,
+        layers: [],
+        worldCopyJump: false,
+        crs: L.CRS.EPSG3857,
+        zoomControl: true,
+        });
+
+
+    
+    var tile_layer_49a82f6783494157b9e24710d6937484 = L.tileLayer(
+        'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
+        {
+        "attribution": null,
+        "detectRetina": false,
+        "maxNativeZoom": 18,
+        "maxZoom": 18,
+        "minZoom": 0,
+        "noWrap": false,
+        "opacity": 1,
+        "subdomains": "abc",
+        "tms": false
+}).addTo(map_89b40f25d4194a68bbfc062f20e3068e);
+    
+        var marker_28e73a0ad1884ba2b6bf1f66fe4a8cef = L.marker(
+            [37.542548, 127.070073],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(map_89b40f25d4194a68bbfc062f20e3068e);
+        
+    
+
+                var icon_0a71d9928b1346ad98d97eabb453596d = L.AwesomeMarkers.icon({
+                    icon: 'info-sign',
+                    iconColor: 'white',
+                    markerColor: 'red',
+                    prefix: 'glyphicon',
+                    extraClasses: 'fa-rotate-0'
+                    });
+                marker_28e73a0ad1884ba2b6bf1f66fe4a8cef.setIcon(icon_0a71d9928b1346ad98d97eabb453596d);
+            
+    
+            var popup_a54586a62531409ca5fba9cbb1070f69 = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_48efd1b72de047a19da40aa68debf042 = $(`<div id="html_48efd1b72de047a19da40aa68debf042" style="width: 100.0%; height: 100.0%;">순곱이네(건대점)</div>`)[0];
+                popup_a54586a62531409ca5fba9cbb1070f69.setContent(html_48efd1b72de047a19da40aa68debf042);
+            
+
+            marker_28e73a0ad1884ba2b6bf1f66fe4a8cef.bindPopup(popup_a54586a62531409ca5fba9cbb1070f69)
+            ;
+
+            
+        
+    
+        var marker_7567b3f38c7040ea81823e4fde691efd = L.marker(
+            [37.783081, 126.688892],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(map_89b40f25d4194a68bbfc062f20e3068e);
+        
+    
+
+                var icon_0a83d6dde68a40af9436caa5e4199324 = L.AwesomeMarkers.icon({
+                    icon: 'info-sign',
+                    iconColor: 'white',
+                    markerColor: 'blue',
+                    prefix: 'glyphicon',
+                    extraClasses: 'fa-rotate-0'
+                    });
+                marker_7567b3f38c7040ea81823e4fde691efd.setIcon(icon_0a83d6dde68a40af9436caa5e4199324);
+            
+    
+            var popup_3b470b92d56846338dfe1fca7022ab96 = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_e71805cc9ddf444cbca010502a502aa5 = $(`<div id="html_e71805cc9ddf444cbca010502a502aa5" style="width: 100.0%; height: 100.0%;">파주 통일동산 장단콩</div>`)[0];
+                popup_3b470b92d56846338dfe1fca7022ab96.setContent(html_e71805cc9ddf444cbca010502a502aa5);
+            
+
+            marker_7567b3f38c7040ea81823e4fde691efd.bindPopup(popup_3b470b92d56846338dfe1fca7022ab96)
+            ;
+
+            
+        
+    
+        var marker_f888cdd627dc4fe79f16a2ce1e38b6e5 = L.marker(
+            [37.520711, 127.021136],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(map_89b40f25d4194a68bbfc062f20e3068e);
+        
+    
+
+                var icon_384b1d444c2c46f0839bd8139c815e40 = L.AwesomeMarkers.icon({
+                    icon: 'info-sign',
+                    iconColor: 'white',
+                    markerColor: 'purple',
+                    prefix: 'glyphicon',
+                    extraClasses: 'fa-rotate-0'
+                    });
+                marker_f888cdd627dc4fe79f16a2ce1e38b6e5.setIcon(icon_384b1d444c2c46f0839bd8139c815e40);
+            
+    
+            var popup_e36724553b3d407ca0ba4e88a4104f6e = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_941f8647bcb44078ae129f9aa0a0a7b6 = $(`<div id="html_941f8647bcb44078ae129f9aa0a0a7b6" style="width: 100.0%; height: 100.0%;">도산분식(가로수길점)</div>`)[0];
+                popup_e36724553b3d407ca0ba4e88a4104f6e.setContent(html_941f8647bcb44078ae129f9aa0a0a7b6);
+            
+
+            marker_f888cdd627dc4fe79f16a2ce1e38b6e5.bindPopup(popup_e36724553b3d407ca0ba4e88a4104f6e)
+            ;
+
+            
+        
+    
+        var marker_cf1a61f490fd413189146460d126df02 = L.marker(
+            [37.55064, 127.045082],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(map_89b40f25d4194a68bbfc062f20e3068e);
+        
+    
+
+                var icon_b0c3ee53740f45e38b3aa54953372f8c = L.AwesomeMarkers.icon({
+                    icon: 'info-sign',
+                    iconColor: 'white',
+                    markerColor: 'purple',
+                    prefix: 'glyphicon',
+                    extraClasses: 'fa-rotate-0'
+                    });
+                marker_cf1a61f490fd413189146460d126df02.setIcon(icon_b0c3ee53740f45e38b3aa54953372f8c);
+            
+    
+            var popup_4d22abc3f81f4ed0b5f08eeefdfca177 = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_5ee1d8555b7c420b95f8131cc28db079 = $(`<div id="html_5ee1d8555b7c420b95f8131cc28db079" style="width: 100.0%; height: 100.0%;">셀럽드샐러드</div>`)[0];
+                popup_4d22abc3f81f4ed0b5f08eeefdfca177.setContent(html_5ee1d8555b7c420b95f8131cc28db079);
+            
+
+            marker_cf1a61f490fd413189146460d126df02.bindPopup(popup_4d22abc3f81f4ed0b5f08eeefdfca177)
+            ;
+
+            
+        
+    
+        var marker_fddc5fc244a2423c9ca914bc8497e0e5 = L.marker(
+            [37.558012, 126.936711],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(map_89b40f25d4194a68bbfc062f20e3068e);
+        
+    
+
+                var icon_98444f030d3a4e8ca38b1cd199524e1a = L.AwesomeMarkers.icon({
+                    icon: 'info-sign',
+                    iconColor: 'white',
+                    markerColor: 'blue',
+                    prefix: 'glyphicon',
+                    extraClasses: 'fa-rotate-0'
+                    });
+                marker_fddc5fc244a2423c9ca914bc8497e0e5.setIcon(icon_98444f030d3a4e8ca38b1cd199524e1a);
+            
+    
+            var popup_7b0de36c62df46acba52cb4a909e063a = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_7d1eca0584f646a89c506ed903cc35f5 = $(`<div id="html_7d1eca0584f646a89c506ed903cc35f5" style="width: 100.0%; height: 100.0%;">대포찜닭(신촌)</div>`)[0];
+                popup_7b0de36c62df46acba52cb4a909e063a.setContent(html_7d1eca0584f646a89c506ed903cc35f5);
+            
+
+            marker_fddc5fc244a2423c9ca914bc8497e0e5.bindPopup(popup_7b0de36c62df46acba52cb4a909e063a)
+            ;
+
+            
+        
+</script>
