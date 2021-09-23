@@ -53,5 +53,5 @@
   * 05_현재 단종 모델 목록(해외) [source code](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/naver_car/03_naver_car.ipynb) [CSV](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/naver_car/%EB%84%A4%EC%9D%B4%EB%B2%84_%EB%8B%A8%EC%A2%85_%EC%9E%90%EB%8F%99%EC%B0%A8(%ED%95%B4%EC%99%B8).csv) [EXCEL](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/naver_car/%EB%84%A4%EC%9D%B4%EB%B2%84_%EB%8B%A8%EC%A2%85_%EC%9E%90%EB%8F%99%EC%B0%A8(%ED%95%B4%EC%99%B8).xlsx)
   * 06_네이버_제네시스_전체_차종 분석 [source code](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/naver_car/04_naver_car_detail.ipynb)  [CSV](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/naver_car/%EB%84%A4%EC%9D%B4%EB%B2%84_%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4.csv) [EXCEL](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/naver_car/%EB%84%A4%EC%9D%B4%EB%B2%84_%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4.xlsx)
 
-## folium 실습
-01_전체 실습 코드 [source code](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/06_folium_practice/20210923_folium_01.ipynb)
+### folium 실습(20210923.Thu)
+ 01_전체 실습 코드 [source code](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/06_folium_practice/20210923_folium_01.ipynb)
