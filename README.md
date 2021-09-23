@@ -61,5 +61,4 @@
  * 02_용산 [site](https://sjungk.github.io/LikeLion_13th_DataCourse/06_folium_practice/yongsan.html)
  * 03_나의 맛집 지도 [site](https://sjungk.github.io/LikeLion_13th_DataCourse/06_folium_practice/my_hot_place.html)
  * 04_내게 가장 기억에 남은 장소 [site](https://sjungk.github.io/LikeLion_13th_DataCourse/06_folium_practice/my_memory_place.html)
- ## ToyProject
- * 서울특별시_전동휠체어_급속충전기_지도[site](https://sjungk.github.io/LikeLion_13th_DataCourse/06_folium_practice/fast_charger_seoul.html) [source code](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/06_folium_practice/fast_charger_map.py)
+ * 05_ToyProject : 서울특별시_전동휠체어_급속충전기_지도[site](https://sjungk.github.io/LikeLion_13th_DataCourse/06_folium_practice/fast_charger_seoul.html) [source code](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/06_folium_practice/fast_charger_map.py)
