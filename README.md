@@ -64,3 +64,6 @@
  
  * 서울특별시_전동휠체어_급속충전기_지도
      * Toy_project [site](https://sjungk.github.io/LikeLion_13th_DataCourse/06_folium_practice/fast_charger_seoul.html) [source code](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/06_folium_practice/fast_charger_map.py)
+
+### Konlpy 실습 (20211005.Tue)
+ * 01_네이버 영화 샹치로 Konlpy 실습 [source code](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/07_konlpy/konlpy_practice.py)
