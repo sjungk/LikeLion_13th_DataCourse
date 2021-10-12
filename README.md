@@ -75,7 +75,7 @@
   
   * 01_전국 전기차 충전소 지도 시각화 
      * 01-1_전국 전기차 충전소 시각화 [source code](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/08_Team_project/20210930_all_charger.ipynb) [CSV](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/08_Team_project/korea_charger.csv)
-     * 01-2_전국 전기차 충전소 세부 시각화 [source code](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/08_Team_project/20210930_all_charger_(1).ipynb)  [SITE](https://github.com/sjungk/LikeLion_13th_DataCourse/08_Team_project/korea_charger_fffinal.html)
+     * 01-2_전국 전기차 충전소 세부 시각화 [source code](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/08_Team_project/20210930_all_charger_(1).ipynb)  [SITE](https://sjungk.github.io/LikeLion_13th_DataCourse/08_Team_project/korea_charger_fffinal.html)
   * 02_지역별 지수 (총 전기차 등록대수, 급속/완속충전기) [source code](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/08_Team_project/%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%B6%84%EC%84%9D_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_(%EC%A7%80%EC%97%AD%EB%B3%84_%EC%A0%84%EA%B8%B0%EC%B0%A8_%EC%A0%81%ED%95%A9%EC%97%AC%EB%B6%80)%20(5).ipynb) [CSV](https://github.com/sjungk/LikeLion_13th_DataCourse/blob/main/08_Team_project/local_index.csv) 
  
 ---
